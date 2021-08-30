@@ -1,0 +1,40 @@
+.bloc{
+  border: 3px solid rgb(90, 95, 99);
+  border-radius: 10px;
+  margin:20px ;
+  text-align: center;
+color:black;
+}
+.bloc img{
+ width: 170px ;
+ height:210px ;
+ border-radius: 100%;
+}
+.clickme{
+  border: none; /* Remove borders */
+  color: white; /* Add a text color */
+  padding: 14px 28px; /* Add some padding */
+  cursor: pointer; /* Add a pointer cursor on mouse-over */
+ margin-left: 47.5%;
+ margin-top: 2%;
+
+}
+h1{
+  color: black;
+  font-size: 2em;
+}
+h6{
+  font-size: .9em;
+  text-align: justify;
+justify-content: center;
+  width: 350px;
+}
+b {
+  color:cornflowerblue
+}
+.danger {
+  background-color: #f44336;
+}
+.success {
+  background-color: #04AA6D;
+}
